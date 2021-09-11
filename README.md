@@ -1,0 +1,1 @@
+# lcm-of-2-numbers
